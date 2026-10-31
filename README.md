@@ -1,4 +1,4 @@
-# Chromé (fashion_app_external)
+# FashionNova
 
 Flutter/Dart Android app that tags photographed clothes and generates outfits from your own closet.
 
